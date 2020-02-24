@@ -1,6 +1,6 @@
 # Old language mod for GreenCubic
 
-This mod add old-died languages (latin, old_slavonic).
+This mod add old-died languages (latin, old slavonic).
 
 ## Install
 
